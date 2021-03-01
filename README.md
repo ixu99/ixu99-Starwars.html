@@ -1,7 +1,7 @@
 # ixu99-starwars.html
 
 <!-- starwars project -->
-<link rel="stylesheet" type="/ixu99-starwars.html/css/style.css" href="Starwars.css" />
+<link rel="stylesheet" href="css/style.css" />
 <section class="stripe" id="light">
 	<div class="container">
 		<div class="person" id="finn">
